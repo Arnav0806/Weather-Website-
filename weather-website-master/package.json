@@ -1,14 +1,14 @@
 {
   "name": "weather-website",
   "version": "1.0.0",
-  "description": "Your project description",
-  "main": "script.js",
+  "description": "this is my website",
+  "main": "index.js",
   "scripts": {
-    "start": "node script.js"
+    "start": "node index.js"
   },
   "dependencies": {
     "express": "^4.17.1"
   },
-  "author": "Your Name",
+  "author": "Arnav0806",
   "license": "ISC"
 }
